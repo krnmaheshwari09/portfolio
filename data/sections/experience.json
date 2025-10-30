@@ -1,0 +1,49 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Experience",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "{{Work}} Experience"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "dateStart"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/timeline-place-oracle.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 7},
+                    "dateEnd": {"year": 2025, "month": 9},
+                    "locales": {
+                        "en": {
+                            "title": "Project {{Intern}}",
+                            "province": "Bengaluru",
+                            "country": "India",
+                            "institution": "Oracle Corporation",
+                            "text": "Developed an [[AI-powered workflow automation tool]] to generate impact analysis reports and presentations for new feature releases.",
+                            "list": [
+                                "Implemented prompt-based LLM pipelines that analyze data extracted from Oracle Docs and user configuration files, generating customized impact summaries and business insights for each customer.",
+                                "Achieved 80-85% accuracy in impact assessment while reducing manual reporting time from 1-2 weeks to under 30 minutes, streamlining the release preparation process.",
+                                "Built an interactive release calendar dashboard showcasing annual release plans for Oracle SaaS Cloud Services Pillars (HCM and ERP), detailing monthly events and feature rollouts to enhance release visibility."
+                            ],
+                            "tags": ["reactjs", "flask", "oracle cloud", "rest apis"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Awards",
+                "title_short_nav": "Achievements",
+                "title_long_prefix": "Here are my",
+                "title_long": "Career {{Achievements}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {
+                "en": { "title": "Certifications" }
+            },
+            "settings": {
+                "order_items_by": "date",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-server",
+                    "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
+                    "date": {"year": 2025, "month": 9},
+                    "link": {"href": "https://www.coursera.org/account/accomplishments/specialization/LAAZT0W368CS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{Coursera}}",
+                            "text": "Certified Meta Back-end Developer"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-brands fa-aws",
+                    "faIconColors": {"bg": "#FFD700", "fill": "#111"},
+                    "date": {"year": 2025, "month": 1},
+                    "link": {"href": "https://www.credly.com/users/karan-maheshwari.26af1c49", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{AWS}} Educate",
+                            "text": "AWS Certified S3, EC2, RDS, IAM and VPC"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-code",
+                    "faIconColors": {"bg": "#007396", "fill": "#EEE"},
+                    "date": {"year": 2024, "month": 11},
+                    "link": {"href": "https://www.linkedin.com/learning/certificates/76ddc1516820545e423ded4c05bca72362e9135c12e908cc6e7f99ca9ea26a9d?trk=share_certificate", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{LinkedIn}} Learning",
+                            "text": "Linux Foundation Certified System Administrator (LFCS)"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-cube",
+                    "faIconColors": {"bg": "#007396", "fill": "#EEE"},
+                    "date": {"year": 2022, "month": 5},
+                    "link": {"href": "https://www.coursera.org/account/accomplishments/verify/QPQCAIMD48XF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{Coursera}}",
+                            "text": "Certified Terraform Training"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-brands fa-github",
+                    "faIconColors": {"bg": "#47A248", "fill": "#EEE"},
+                    "date": {"year": 2025, "month": 5},
+                    "link": {"href": "https://www.linkedin.com/learning/certificates/cf704bd12794f47ae8cfc20a61f8148f8f0b89319a07d2dcd928d10d62c91dc7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BHQkaqUB4RMmspCdKY3%2FIag%3D%3D", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{LinkedIn}} Learning",
+                            "text": "Certified Github Actions Developer"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-solid fa-cloud",
+                    "faIconColors": {"bg": "#47A248", "fill": "#EEE"},
+                    "date": {"year": 2025, "month": 8},
+                    "link": {"href": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=36C295B3903DAE89526368D6BA02B6D4D40B7684E3C4524ACA5234D59ACD16F6", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{Oracle}} University",
+                            "text": "Oracle Fusion AI Agent Studio Certified Foundations Associate"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Awards" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "date",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {"year": 2019, "month": 8},
+                    "preview": {
+                        "links": [
+                            {"href": "https://drive.google.com/file/d/1NiIh_JrUz8B5MdevecszSsuYvdblJwmh/view?usp=sharing", "tooltipString": "see_certification", "faIcon": "fa-solid fa-award"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{National Chess}} Competition (Inter-JNV, All India)",
+                            "province": "Odisha",
+                            "country": "India",
+                            "institution": "JNV",
+                            "text": "Participated in National Chess Meet 2019 conducted by Novadaya Vidyalaya Samiti, Bhopal Region at Jawahar Navodaya Vidyalaya, Sunamunda, Deogarh - Odisha.",
+                            "list":[
+                                "Represented my region at the National Chess Championship featuring participants from JNVs across India.",
+                                "Achieved 3 wins out of 5 matches, demonstrating strong strategic thinking, focus, and consistency.",
+                                "Recognized for outstanding performance and contribution to the school's national representation."
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "date": {"year": 2019, "month": 12},
+                    "preview": {
+                        "links": [
+                            {"href": "https://drive.google.com/file/d/1LTilL4ujKlAfDZGcPSOQRnMpNG3vyVSe/view?usp=sharing", "tooltipString": "see_certification", "faIcon": "fa-solid fa-award"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Participated in {{27th National Children's Science Congress (NCSC)}}",
+                            "province": "Kerala",
+                            "country": "India",
+                            "institution": "MIVN, Thiruvananthapuram",
+                            "text": "A prestigious national-level program by the Govt. of India (Dept. of Science & Technology) to promote scientific research and innovation among students.",
+                            "list": [
+                                "Developed and proposed a project model on [[Groundwater Level Charging]], addressing the critical environmental issue of water resource depletion.",
+                                "Collaborated in a two-person team to research, structure, and design the project's core concepts and practical implementation.",
+                                "Presented the scientific solution and findings at the national-level congress, demonstrating skills in research, public speaking, and problem-solving."
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "date": {"year": 2019, "month": 10},
+                    "preview": {
+                        "links": [
+                            {"href": "https://drive.google.com/file/d/1gP_jfjyM_i7VBa1QNuJ6URqsFjhSJdM8/view?usp=sharing", "tooltipString": "see_certification", "faIcon": "fa-solid fa-award"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Participated in {{Student Solar Ambassadors Workshop}}",
+                            "province": "Maharashtra",
+                            "country": "India",
+                            "institution": "IIT Bombay",
+                            "text": "A global hands-on workshop organized by IIT Bombay to promote solar energy and sustainability on Mahatma Gandhi's 150th birth anniversary.",
+                            "list":[
+                                "Received hands-on technical training in the assembly, testing, and operation of a photovoltaic (PV) solar study lamp.",
+                                "Participated as a 'Student Solar Ambassador' in a massive global initiative, joining over 1 million students worldwide to promote the adoption of clean energy."
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "date": {"year": 2019, "month": 12},
+                    "preview": {
+                        "links": [
+                            {"href": "https://drive.google.com/file/d/1RAKlCQr01agBEWjzo1nzIGdeGr-7rNHV/view?usp=sharing", "tooltipString": "see_certification", "faIcon": "fa-solid fa-award"}
+                        ],
+                        "screenshots":[],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{S. S. Ramanujan}} Maths Competition (Senior Level)",
+                            "province": "Uttar Pradesh",
+                            "country": "India",
+                            "institution": "JNV Sambhal",
+                            "text": "Achieved the [[4th]] position in the district-level Ramanujan Maths Competition during 10th standard. This event tested advanced mathematical aptitude and analytical problem-solving skills against top students from the region."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "date": {"year": 2017, "month": 12},
+                    "preview": {
+                        "links": [
+                            {"href": "https://drive.google.com/file/d/1b60QNxdG34-30Yu2u5IxVqOEWl55iS-g/view?usp=sharing", "tooltipString": "see_certification", "faIcon": "fa-solid fa-award"}
+                        ],
+                        "screenshots":[],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{S. S. Ramanujan}} Maths Competition (Junior Level)",
+                            "province": "Uttar Pradesh",
+                            "country": "India",
+                            "institution": "JNV Sambhal",
+                            "text": "Secured the [[2nd]] position (Runner-Up) in the district-level Ramanujan Maths Competition in 8th standard. This accomplishment highlights a strong foundational understanding of mathematical principles and a consistent ability to excel in competitive academic environments."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

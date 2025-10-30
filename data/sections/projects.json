@@ -1,0 +1,125 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Projects",
+                "title_short_nav": "Projects",
+                "title_long_prefix": "Take a look at",
+                "title_long": "My {{Projects}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "category_all": "All",
+                    "category_web": "Web",
+                    "category_devops": "Devops",
+                    "category_academic": "Academic"
+                }
+            },
+            "settings": {
+                "categorize_by": ["category_web", "category_devops", "category_academic"],
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "categoryId": "category_academic",
+                    "img": "images/pictures/projects/tpo-web-app/icon.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/krnmaheshwari09/tpo-web-app", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "T&P Portal - NIT Srinagar",
+                            "text": "This platform streamlines the entire training and placement process for <b>NIT Srinagar</b> students and recruiters. From skill development modules to managing campus drives, we are the one-stop solution for career readiness.",
+                            "tags": ["rest apis", "reactjs", "nodejs", "mongodb"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_devops",
+                    "img": "images/pictures/projects/taskops/icon.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/krnmaheshwari09/TaskOps-A-DevOps-Driven-Todo-App", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "9:16",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Taskops",
+                            "text": "TaskOps is a DevOps-driven To-Do application designed for efficient task management and workflow automation.",
+                            "tags": ["reactjs", "nodejs", "mongodb", "docker", "k8s", "jenkins", "terraform", "aws"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/projects/sandesh-chat-app/icon.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/krnmaheshwari09/sandesh-chat-app", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/projects/sandesh-chat-app/screenshot1.png",
+                            "images/pictures/projects/sandesh-chat-app/screenshot2.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Sandesh",
+                            "text": "Sandesh is a real-time chat application built with the MERN stack and WebSockets to support authentication, authorization, and live one-on-one messaging.",
+                            "tags": ["Reactjs", "nodejs", "mongodb", "socket.io", "jwt"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/projects/foodies/icon.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/krnmaheshwari09/foodies-backend", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Foodies",
+                            "text": "Foodies is a full-stack MERN application for a food ordering platform, featuring a React frontend and a Node.js backend to manage users, food data, and orders.",
+                            "tags": ["reactjs", "nodejs", "mongodb", "expressjs"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

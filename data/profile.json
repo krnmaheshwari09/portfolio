@@ -1,0 +1,23 @@
+{
+    "name": "Karan Maheshwari",
+    "profilePictureUrl": "images/pictures/profile-picture.jpg",
+    "resumePdfUrl": "https://drive.google.com/file/d/1zeqpY5Mak5Fl0EvKA3T-QLmgP_X-VVzQ/view?usp=sharing",
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+
+    "locales": {
+        "en": {
+            "localized_name": "Karan Maheshwari",
+            "localized_name_stylized": " [[Karan {{Maheshwari}}]]",
+            "status_message_available_for_freelance": "Available",
+            "roles": [
+                "Software Developer",
+                "DevOps Engineer",
+                "Cloud Engineer"
+            ],
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
+        }
+    }
+}
