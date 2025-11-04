@@ -23,7 +23,7 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Uttar Pradesh - India",
+                    "label": "UP - India",
                     "link": {"href": "", "tooltipString": ""},
                     "faIcon": "pi pi-map-marker"
                 },
