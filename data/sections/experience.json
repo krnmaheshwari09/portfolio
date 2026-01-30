@@ -39,11 +39,12 @@
                                 "Achieved 80-85% accuracy in impact assessment while reducing manual reporting time from 1-2 weeks to under 30 minutes, streamlining the release preparation process.",
                                 "Built an interactive release calendar dashboard showcasing annual release plans for Oracle SaaS Cloud Services Pillars (HCM and ERP), detailing monthly events and feature rollouts to enhance release visibility."
                             ],
-                            "tags": ["reactjs", "flask", "oracle cloud", "rest apis"]
+                            "tags": ["reactjs", "flask", "oracle cloud", "rest apis", "ai Services"]
                         }
                     }
                 }
             ]
         }
+        
     ]
 }
